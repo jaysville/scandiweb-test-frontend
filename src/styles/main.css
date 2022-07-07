@@ -1,0 +1,16 @@
+.productHead {
+  display: flex;
+  justify-content: space-between;
+}
+
+#product_form div label {
+  margin: 0 10px;
+}
+#product_form .input {
+  margin-bottom: 20px;
+}
+.products {
+  border: 1px solid black;
+  width: 300px;
+  padding: 20px;
+}
